@@ -20,7 +20,7 @@ OSChina Reference: http://www.oschina.net/openapi
  OAuthWebSecurity.RegisterClient(client, "OSChina");
  ```
  
- ## Disclaimer
+## Disclaimer
 
 I don't work for Google, Microsoft, or DNOA.  This is released under the [MIT](LICENCE.txt) licence.  Do what you want with it.
 
